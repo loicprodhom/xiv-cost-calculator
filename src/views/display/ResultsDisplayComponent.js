@@ -3,7 +3,7 @@ import { Grid } from "@mui/material";
 
 const ResultsDisplayComponent = (props) => {
     return (
-        <Grid></Grid>
+        <Grid>Results Will be displayed here</Grid>
     )
 }
 
